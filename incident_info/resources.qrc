@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/incident_info" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
